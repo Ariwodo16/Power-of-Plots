@@ -1,8 +1,7 @@
-# Unit 5 Homework: The Power of Plots
+# The Power of Plots
 
 What good is data without a good plot to tell the story?
 
-In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 ## Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -87,17 +86,17 @@ Create two summary statistics DataFrames:
 
 2. Plot the linear regression model on top of the previous scatter plot.
 
-### Submit Your Final Analysis
+### Final Analysis
 
-Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
+Review all the figures and tables that you generated. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
 
 ## Hints and Considerations
 
-* Use the code comments in the provided starter file to guide you through this assignment. 
+* Use the code comments in the provided starter file to guide you through this. 
 
 * Use proper labeling for your plots, that is, include plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
-* While working on this assignment, refer to Stack Overflow and the Matplotlib documentation as needed. These are essential tools in every data analyst's tool belt.
+* While working on this, refer to Stack Overflow and the Matplotlib documentation as needed. These are essential tools in every data analyst's tool belt.
 
 * Remember that there are many ways to approach a data problem. One way to break up your task into micro tasks. For example, ask yourself questions like the following:
 
@@ -111,9 +110,6 @@ Review all the figures and tables that you generated in this assignment. Write a
 
  
 * Get help when you need it! Your instructional team is here to help.
-## Rubric
-
-[Unit 5 Homework Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
 
 - - -
 
